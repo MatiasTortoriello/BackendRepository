@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "Proyecto de curso Backend con NPM",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matías Tortoriello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

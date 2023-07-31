@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "The Witcher 3",
+		"description": "Eres Geralt de Rivia, cazador de monstruos. En un continente devastado por la guerra e infestado de criaturas, tu misión es encontrar a Ciri, la niña de la profecía, un arma viviente que puede alterar el mundo tal y como lo conocemos.",
+		"price": 2000,
+		"thumbnail": "",
+		"code": "m5656k",
+		"stock": 74000
+	},
+	{
+		"id": 2,
+		"title": "Far Cry 5",
+		"description": "Bienvenido a Hope County, Montana, la tierra de los valientes y de la libertad, pero también de la secta apocalíptica conocido como `Puerta del Edén`. Enfréntate a Joseph Seed, líder de la secta, y sus hermanos para liberar a la comunidad de Hope.",
+		"price": 1600,
+		"thumbnail": "",
+		"code": "34h45b",
+		"stock": 25000
+	},
+	{
+		"id": 3,
+		"title": "Dota 2",
+		"description": "Cada día, millones de jugadores de todo el mundo entran en batalla como uno de los más de cien héroes de Dota. Y no importa si es su décima hora de juego o la milésima, siempre hay algo nuevo que descubrir.",
+		"price": 0,
+		"thumbnail": "",
+		"code": "ab324v",
+		"stock": 10000
+	}
+]
