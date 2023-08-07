@@ -1,9 +1,9 @@
-import ProductManger from '../ProductMananger.js';
+import ProductManager from '../ProductManager.js';
 import {Router} from 'express';
 
 const router = Router();
 
-const productManager = new ProductManger("./products.json");
+const productManager = new ProductManager("./products.json");
 
 router.get('/products', async (req, res) => {
 
@@ -31,7 +31,7 @@ router.get('/:id', async (req, res) => {
 
     if (!productid) return (res.status(400).send({ error: "Product no founded" }))
 
-    return res.send({ productFinded: productid })
+    return res.send({ findedProduct: productid })
 
 }
 );
