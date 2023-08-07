@@ -104,7 +104,7 @@ class ProductManager {
 
 }
 
-export default ProductManger;  
+export default ProductManager;  
 
 /*const path = "productos.json"
 
