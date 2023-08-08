@@ -6,7 +6,8 @@
 		"price": 2000,
 		"thumbnail": "",
 		"code": "m5656k",
-		"stock": 74000
+		"stock": 74000,
+		"category": "RPG"
 	},
 	{
 		"id": 2,
@@ -15,7 +16,9 @@
 		"price": 1600,
 		"thumbnail": "",
 		"code": "34h45b",
-		"stock": 25000
+		"stock": 25000,
+		"category": "shooter"
+
 	},
 	{
 		"id": 3,
@@ -24,6 +27,7 @@
 		"price": 0,
 		"thumbnail": "",
 		"code": "ab324v",
-		"stock": 10000
+		"stock": 10000,
+		"category": "MOBA"
 	}
 ]
